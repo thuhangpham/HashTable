@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Noi Ket Hop Nhat", "Noi Ket Hop Nhat\Noi Ket Hop Nhat.vcxproj", "{2C5765D6-9B3C-41A7-887F-A8B25C1680BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NoiKetTrucTiep", "NoiKetTrucTiep\NoiKetTrucTiep.vcxproj", "{3C7D15C9-F27B-400F-9DFC-BD2F1C28162C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoTuyenTinh", "DoTuyenTinh\DoTuyenTinh.vcxproj", "{2EA58233-1DB7-4B4F-8AEC-673B5701BD3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5765D6-9B3C-41A7-887F-A8B25C1680BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2C5765D6-9B3C-41A7-887F-A8B25C1680BA}.Debug|Win32.Build.0 = Debug|Win32
+		{2C5765D6-9B3C-41A7-887F-A8B25C1680BA}.Release|Win32.ActiveCfg = Release|Win32
+		{2C5765D6-9B3C-41A7-887F-A8B25C1680BA}.Release|Win32.Build.0 = Release|Win32
+		{3C7D15C9-F27B-400F-9DFC-BD2F1C28162C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C7D15C9-F27B-400F-9DFC-BD2F1C28162C}.Debug|Win32.Build.0 = Debug|Win32
+		{3C7D15C9-F27B-400F-9DFC-BD2F1C28162C}.Release|Win32.ActiveCfg = Release|Win32
+		{3C7D15C9-F27B-400F-9DFC-BD2F1C28162C}.Release|Win32.Build.0 = Release|Win32
+		{2EA58233-1DB7-4B4F-8AEC-673B5701BD3C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2EA58233-1DB7-4B4F-8AEC-673B5701BD3C}.Debug|Win32.Build.0 = Debug|Win32
+		{2EA58233-1DB7-4B4F-8AEC-673B5701BD3C}.Release|Win32.ActiveCfg = Release|Win32
+		{2EA58233-1DB7-4B4F-8AEC-673B5701BD3C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
